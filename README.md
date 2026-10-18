@@ -32,3 +32,7 @@ Java implementation of the **Facade** structural design pattern based on Option 
 2. Compile all java files:
    ```bash
    javac client/Client.java facade/*.java subsystem/*.java
+
+## Documentation & Report
+- [Download Report (PDF)](docs/Report.pdf)
+- [Download Report (DOCX)](docs/Report.docx)
