@@ -26,6 +26,7 @@ Java implementation of the **Facade** structural design pattern based on Option 
 - `src/subsystem/`: Contains low-level subsystem classes (`MetadataReader`, `CodecFactory`, `BitrateReader`, `AudioMixer`).
 - `src/facade/`: Contains the wrapper class (`MediaConversionFacade`) simplifying access.
 - `src/client/`: Contains the entry point (`Client`) demonstrating clean decoupling.
+- `docs/`: Contains project documentation and report files.
 
 ## How to Compile & Run
 1. Navigate to the `src` directory.
